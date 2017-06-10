@@ -12,8 +12,16 @@
         "source": "E:\\github_code\\code\\code\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_normal_refresh_footer.xml"
     },
     {
+        "merged": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_stickiness.xml",
+        "source": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_refresh_header_stickiness.xml"
+    },
+    {
         "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_normal.xml",
         "source": "D:\\object\\code\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_refresh_header_normal.xml"
+    },
+    {
+        "merged": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_meituan.xml",
+        "source": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_refresh_header_meituan.xml"
     },
     {
         "merged": "E:\\github_code\\code\\code\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_stickiness.xml",
@@ -22,6 +30,10 @@
     {
         "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_mooc_style.xml",
         "source": "D:\\object\\code\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_refresh_header_mooc_style.xml"
+    },
+    {
+        "merged": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_normal_refresh_footer.xml",
+        "source": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_normal_refresh_footer.xml"
     },
     {
         "merged": "E:\\github_code\\code\\code\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_mooc_style.xml",
@@ -34,6 +46,14 @@
     {
         "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_stickiness.xml",
         "source": "D:\\object\\code\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_refresh_header_stickiness.xml"
+    },
+    {
+        "merged": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_normal.xml",
+        "source": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_refresh_header_normal.xml"
+    },
+    {
+        "merged": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_refresh_header_mooc_style.xml",
+        "source": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\view_refresh_header_mooc_style.xml"
     },
     {
         "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_normal_refresh_footer.xml",

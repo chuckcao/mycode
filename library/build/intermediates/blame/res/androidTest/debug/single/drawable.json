@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_refresh_loding.xml",
+        "source": "E:\\github_code\\code\\mycode\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_refresh_loding.xml"
+    },
+    {
         "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_refresh_loding.xml",
         "source": "D:\\object\\code\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_refresh_loding.xml"
     },

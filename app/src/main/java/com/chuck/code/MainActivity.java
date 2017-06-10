@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements  BGARefreshLayout
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_main_1);
         mEngine =new Retrofit.Builder()
                 .baseUrl("http://115.28.86.42:8081/")

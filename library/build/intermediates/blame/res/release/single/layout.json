@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\release\\layout\\view_normal_refresh_footer.xml",
+        "source": "D:\\object\\code\\library\\src\\main\\res\\layout\\view_normal_refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\release\\layout\\view_refresh_header_stickiness.xml",
+        "source": "D:\\object\\code\\library\\src\\main\\res\\layout\\view_refresh_header_stickiness.xml"
+    },
+    {
+        "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\release\\layout\\view_refresh_header_meituan.xml",
+        "source": "D:\\object\\code\\library\\src\\main\\res\\layout\\view_refresh_header_meituan.xml"
+    },
+    {
+        "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\release\\layout\\view_refresh_header_mooc_style.xml",
+        "source": "D:\\object\\code\\library\\src\\main\\res\\layout\\view_refresh_header_mooc_style.xml"
+    },
+    {
+        "merged": "D:\\object\\code\\library\\build\\intermediates\\res\\merged\\release\\layout\\view_refresh_header_normal.xml",
+        "source": "D:\\object\\code\\library\\src\\main\\res\\layout\\view_refresh_header_normal.xml"
+    }
+]

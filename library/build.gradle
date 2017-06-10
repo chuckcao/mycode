@@ -1,0 +1,19 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 25
+    }
+    buildToolsVersion '25.0.0'
+}
+
+dependencies {
+    compile 'com.android.support:recyclerview-v7:24.0.0'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.3.0'
+    compile 'com.squareup.retrofit2:retrofit:2.3.0'
+}

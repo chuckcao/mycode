@@ -1,6 +1,7 @@
 package com.chuck.code;
 
 import android.app.Application;
+import android.support.multidex.MultiDex;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
@@ -17,11 +18,12 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
         sInstance = this;
-
+        MultiDex.install(this);
     }
 
     public static App getInstance() {
         return sInstance;
+
     }
 
 }

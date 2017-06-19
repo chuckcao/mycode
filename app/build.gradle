@@ -5,11 +5,12 @@ android {
     buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "com.chuck.code"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -28,4 +29,6 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
     compile project(':library')
+    compile 'com.quicklib:quicklib-multidex:1.0.1'
+
 }

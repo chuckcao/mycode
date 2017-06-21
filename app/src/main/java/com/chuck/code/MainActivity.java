@@ -13,10 +13,8 @@ import java.util.List;
 
 import cn.bingoogolapple.androidcommmon.adapter.BGARecyclerViewAdapter;
 import cn.bingoogolapple.androidcommmon.adapter.BGAViewHolderHelper;
-import cn.bingoogolapple.refreshlayout.BGAMoocStyleRefreshViewHolder;
 import cn.bingoogolapple.refreshlayout.BGANormalRefreshViewHolder;
 import cn.bingoogolapple.refreshlayout.BGARefreshLayout;
-import cn.bingoogolapple.refreshlayout.BGAStickinessRefreshViewHolder;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
